@@ -29,7 +29,3 @@ Hands-on machine learning practice spanning classical ML, neural networks, NLP, 
 ## Notes
 
 Notebooks were originally developed in Google Colab; outputs are preserved where relevant (plots, training logs, sample runs).
-
-## Author
-
-Tony — CS student, UC Berkeley
